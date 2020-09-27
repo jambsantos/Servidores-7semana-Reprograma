@@ -1,8 +1,8 @@
-const heroes = require('../model/heroes.json');
+const heroesM = require('../model/heroesM.json');
 
 const getAll = (req,res)=> {
     console.log(req.url);
-    res.send(heroes);
+    res.send(heroesM);
 };
 
 module.exports= {getAll};
