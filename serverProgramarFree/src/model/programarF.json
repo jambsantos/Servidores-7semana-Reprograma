@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "nome": "BitDegree",
+    "site": "https://www.bitdegree.org/learn/",
+    "linguagens": ["HTML/CSS","JavaScript","SQL", "jQuery"]
+ },
+ {
+    "id": 2,
+    "nome": "Upskill",
+    "site": "https://upskillcourses.com/",
+    "linguagens": ["HTML/CSS","Java","Python", "Programação IoT","Introdução à programação"]
+ },
+ {
+   "id": 3,
+   "nome": "Code Academy",
+   "site": "https://www.codecademy.com/",
+   "linguagens": ["HTML/CSS","JavaScript","Python", "jQuery","Ruby"]
+},
+{
+   "id": 4,
+   "nome": "edX",
+   "site": "https://www.edx.org/course/subject/computer-science",
+   "linguagens": ["HTML/CSS","JavaScript","Python", "SQL","C++"]
+},
+{
+   "id": 5,
+   "nome": "Khan Academy",
+   "site": "https://www.khanacademy.org/computing/computer-programming",
+   "linguagens": ["HTML/CSS","JavaScript","Banco de dados"]
+},
+{
+   "id": 6,
+   "nome": "Codewars",
+   "site": "https://www.codewars.com/dashboard",
+   "linguagens": ["HTML/CSS","JavaScript","Python","Ruby","SQL"]
+},
+{
+   "id": 7,
+   "nome": "Free Code Camp",
+   "site": "https://www.freecodecamp.org/",
+   "linguagens": ["HTML5/CSS3","JavaScript","Git e Github","Node.js","React.js","SQL"]
+},
+{
+   "id": 8,
+   "nome": "MIT Open Courseware",
+   "site": "https://ocw.mit.edu/index.htm",
+   "linguagens": ["Python","JavaScript","C","C++","Java","SQL"]
+},
+{
+   "id": 9,
+   "nome": "Solo Learn",
+   "site": "https://www.sololearn.com/",
+   "linguagens": ["Python","JavaScript","HTML/CSS","JQuery","Ruby","Swift 4"]
+},
+{
+   "id": 10,
+   "nome": "Google Android Training",
+   "site": "https://developers.google.com/training",
+   "linguagens": ["Desenvolvimento Android","Desenvolvimento Web","Firebase","Machine learning"]
+}
+] 
