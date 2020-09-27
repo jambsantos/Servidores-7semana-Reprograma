@@ -1,0 +1,55 @@
+[{
+    "id": 2,
+    "atalho": "Ctrl + s",
+    "descricao": "Salvar tudo",
+    "sistemaOperacional": "Windows"
+ },
+ {
+    "id": 3,
+    "atalho": "Ctrl + n",
+    "descricao": "Novo arquivo",
+    "sistemaOperacional": "Windows"
+ },
+ {
+    "id": 4,
+    "atalho": "Ctrl + f",
+    "descricao": "Busca no código",
+    "sistemaOperacional": "Windows"
+ },
+ {
+    "id": 5,
+    "atalho": "Ctrl + Shift + ' ",
+    "descricao": "Abre o terminal do VScode",
+    "sistemaOperacional": "Windows"
+ },
+ {
+    "id": 6,
+    "atalho": "Ctrl + z",
+    "descricao": "Desfaz a merda",
+    "sistemaOperacional": "Windows"
+ },
+ {
+    "id": 7,
+    "atalho": "Ctrl + Shift + k",
+    "descricao": "Deleta linha toda",
+    "sistemaOperacional": "Windows"
+ },
+ {
+    "id": 8,
+    "atalho": "Ctrl + Shift + v ",
+    "descricao": "Preview do marckdown",
+    "sistemaOperacional": "Windows"
+ },
+ {
+    "id": 9,
+    "atalho": "Ctrl + ]",
+    "descricao": "Divide tela no meio",
+    "sistemaOperacional": "Windows"
+ },
+ {
+    "id": 10,
+    "atalho": "Ctrl + Shift + h",
+    "descricao": "Substitui o selecionado em toda parte",
+    "sistemaOperacional": "Windows"
+}
+]
