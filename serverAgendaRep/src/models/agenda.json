@@ -1,0 +1,134 @@
+[{
+    "semana": 0,
+    "conteudo": ["Abertura", "Apresentação do curso"],
+    "professora": "Raissa",
+    "exercicios": [""],
+    "status": "Concluido"
+},
+{
+    "semana": 1,
+    "conteudo": ["Conceitos Iniciais", "Versionamento de Código"],
+    "professora": "Natalia",
+    "exercicios": ["Criar repositório","pesquisa sobre framework e biblioteca"],
+    "status": "Concluido"
+},
+{
+    "semana": 2,
+    "conteudo": ["Lógica Variáveis", "Operadores", "Condicional"],
+    "professora": "Natalia",
+    "exercicios": ["Calculadora de média","npm"],
+    "status": "Concluido"
+},
+{
+    "semana": 3,
+    "conteudo": ["Lógica Aplicada"],
+    "professora": "Juliana",
+    "exercicios": ["funções","for","semana3"],
+    "status": "Em progresso - arvore invertida, array e segundo em semana3"
+},
+{
+    "semana": 4,
+    "conteudo": ["Lógica Aplicada"],
+    "professora": "Juliana",
+    "exercicios": ["array","objeto","semana4"],
+    "status": "Em progresso - cartão e chamada cliente em semana4"
+},
+{
+    "semana": 5,
+    "conteudo": ["Projeto Guiado"],
+    "professora": "Anna Flavia",
+    "exercicios": ["desafio Pokedex", "exercicio 1 até 10", "jogo adivinha o número"],
+    "status": "Em progresso - exercicio 9, segunda parte da Pokedex,jogo adivinha o número"
+},
+{
+    "semana": 6,
+    "conteudo": ["Introdução à API", "NodeJS", "JSON"],
+    "professora": "Paulinha",
+    "exercicios": ["repositorio", "dez listas JSON"],
+    "status": "Concluido"
+},    
+{
+    "semana": 7,
+    "conteudo": ["Introdução à API"],
+    "professora": "Paulinha",
+    "exercicios": [""],
+    "status": "Não Iniciado"
+}, 
+{
+    "semana": 8,
+    "conteudo": ["Projeto Prático","GET"],
+    "professora": "Undefined",
+    "exercicios": [""],
+    "status": "Não Iniciado"
+}, 
+{
+    "semana": 9,
+    "conteudo": ["Post","DELETE"],
+    "professora": "Undefined",
+    "exercicios": [""],
+    "status": "Não Iniciado"
+}, 
+{
+    "semana": 10,
+    "conteudo": ["PUTCH","DELETE"],
+    "professora": "Undefined",
+    "exercicios": [""],
+    "status": "Não Iniciado"
+}, 
+{
+    "semana": 11,
+    "conteudo": ["Revisão","GET", "POST", "PUT", "DELETE"],
+    "professora": "Undefined",
+    "exercicios": [""],
+    "status": "Não Iniciado"
+}, 
+{
+    "semana": 12,
+    "conteudo": ["Bando de dados"],
+    "professora": "Undefined",
+    "exercicios": [""],
+    "status": "Não Iniciado"
+}, 
+{
+    "semana": 13,
+    "conteudo": ["Integração do Back-end + BD"],
+    "professora": "Undefined",
+    "exercicios": [""],
+    "status": "Não Iniciado"
+}, 
+{
+    "semana": 14,
+    "conteudo": ["Projeto Guiado - CRUD com BD"],
+    "professora": "Undefined",
+    "exercicios": [""],
+    "status": "Não Iniciado"
+}, 
+{
+    "semana": 15,
+    "conteudo": ["Aplicar autenticação/Autorização"],
+    "professora": "Undefined",
+    "exercicios": [""],
+    "status": "Não Iniciado"
+}, 
+{
+    "semana": 16,
+    "conteudo": ["Carreira"],
+    "professora": "Undefined",
+    "exercicios": [""],
+    "status": "Não Iniciado"
+}, 
+{
+    "semana": 17,
+    "conteudo": ["Projeto Livre"],
+    "professora": "Undefined",
+    "exercicios": [""],
+    "status": "Não Iniciado"
+}, 
+{
+    "semana": 18,
+    "conteudo": ["Projeto Livre"],
+    "professora": "Undefined",
+    "exercicios": [""],
+    "status": "Não Iniciado"
+} 
+]  
