@@ -1,0 +1,64 @@
+[{
+    "id": 1,
+     "codiNome": ["Homem de ferro","Vingador Dourado","Futurista"],
+     "afiliacoes": ["Indústrias Stark","Vingadores","S.H.I.E.L.D."],
+     "terraNatal": "Long Island"
+ },
+ {
+     "id": 2,
+      "codiNome": ["Capitão América","Capitão"],
+      "afiliacoes": ["Hidra","Vingadores","S.H.I.E.L.D."],
+      "terraNatal": "Brooklyn"
+  },
+  {
+     "id": 3,
+      "codiNome": ["Capitã Marvel","Ms Marvel","Warbird"],
+      "afiliacoes": ["NASA","Força Aérea dos EUA","Vingadores", "Tropa Alfa"],
+      "terraNatal": "Boston"
+  },
+  {
+     "id": 4,
+      "codiNome": ["Doutor Estranho","Mago Supremo","Lorde da Magia"],
+      "afiliacoes": ["A ordem","Defensores","Vingadores"],
+      "terraNatal": "Filadélfia"
+  },
+  {
+     "id": 5,
+      "codiNome": ["Homem Formiga", "Homem Gigante"],
+      "afiliacoes": ["Vingadores","Quarteto Fantástico","Defensores"],
+      "terraNatal": "Flórida"
+  },
+  {
+     "id": 6,
+      "codiNome": ["Vespa", "Janet Pym", "Pixie"],
+      "afiliacoes": ["Vingadores","Força-V","Defensores"],
+      "terraNatal": "Nova Jersey"
+  },
+  {
+     "id": 7,
+      "codiNome": ["Feiticeira Escarlate"],
+      "afiliacoes": ["Vingadores","Irmandade de Mutantes"],
+      "terraNatal": "Sokovia"
+  },
+  {
+     "id": 8,
+      "codiNome": ["Thor", "Deus do Trovão","Masterson","Filho de Odin"],
+      "afiliacoes": ["Vingadores","Asgardiano"],
+      "terraNatal": "Asgard"
+  },
+  {
+     "id": 9,
+      "codiNome": ["Viúva Negra", "Natasha Romanoff","Czarina","Tasha","Nat"],
+      "afiliacoes": ["Vingadores","KGB","S.H.I.E.L.D.","Vigilantes"],
+      "terraNatal": "Russia"
+  },
+  {
+     "id": 10,
+      "codiNome": ["Homem Aranha", "Garoto-Aranha","Cabeça de Teia","Amigão da Vizinhança"],
+      "afiliacoes": ["Vingadores","Novos Vingadores","Defensores","Vingadores Secretos"],
+      "terraNatal": "Queens"
+  }
+ ]
+ 
+ 
+ 
