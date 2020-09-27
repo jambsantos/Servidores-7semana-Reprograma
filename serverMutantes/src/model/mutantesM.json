@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "nome": "Charles F. Xavier",
+    "codiNome": ["Professor","Rodas","Charles", "Professor X"],
+    "especialidades": ["Telepatia","Projeção Astral","Telecinese"]
+},
+{
+    "id": 2,
+    "nome": "Anna Marie D'Ancanto",
+    "codiNome": ["Vampira","Rogue","Titania"],
+    "especialidades": ["Absorção de habilidades, lembranças e pensamentos pelo tato","voar"]
+},
+{
+    "id": 3,
+    "nome": "Jean Elaine Grey",
+    "codiNome": ["Jean","Fênix"],
+    "especialidades": ["Telepatia","Telecinese","Pirocinese","voar"]
+},
+{
+    "id": 4,
+    "nome": "Katherine Anne Kitty Pryde",
+    "codiNome": ["Lince Negra","Kitty","Ariel"],
+    "especialidades": ["Atravessa superfícies"]
+},
+{
+    "id": 5,
+    "nome": "James Logan",
+    "codiNome": ["Wolverine","ArmaX","Logan"],
+    "especialidades": ["Regeneração","Garras retráteis","Sentidos e força sobrehumana"]
+},
+{
+    "id": 6,
+    "nome": "Kürt Wagner",
+    "codiNome": ["Noturno","Diabo","Elfo"],
+    "especialidades": ["Teletransporte", "Agilidade e reflexos sobrehumanos","Aderência as superfícies"]
+},
+{
+    "id": 7,
+    "nome": "Raven Darkholme",
+    "codiNome": ["Mística","Raven","Foxx"],
+    "especialidades": ["Troca de forma", "Agilidade e reflexos sobrehumanos","Cura rápido"]
+},
+{
+    "id": 8,
+    "nome": "Erik Lehnsherr",
+    "codiNome": ["Magneto","Erik"],
+    "especialidades": ["Controle do magnetismo", "Manipulação de tudo que contém ferro","Cria campos magnéticos"]
+},
+{
+    "id": 9,
+    "nome": "Scott Summers",
+    "codiNome": ["Ciclope","Scott", "Cyke"],
+    "especialidades": ["Raios lasers ópticos", "Mestre em artes marciais"]
+},
+{
+    "id": 10,
+    "nome": "Ororo Iqadi Munroe",
+    "codiNome": ["Tempestarde","Storm","Rainha do clima", "Deusa do clima"],
+    "especialidades": ["Manipulação meteorológica", "Voar","Controle de raios"]
+}
+]
