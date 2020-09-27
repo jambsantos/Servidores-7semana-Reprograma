@@ -51,8 +51,8 @@
     "semana": 7,
     "conteudo": ["Introdução à API"],
     "professora": "Paulinha",
-    "exercicios": [""],
-    "status": "Não Iniciado"
+    "exercicios": ["criar dois servidores com as lsitas JSON da semana passada"],
+    "status": "Em progresso - cinco servidores criado, faltam outros 5 servidores"
 }, 
 {
     "semana": 8,
